@@ -1,4 +1,4 @@
-# Traffic-sign-classification-with-Convolutional-Neural-Network 
+# Traffic-Sign Recognition & Classification (TSR) with Convolutional Neural Network (CNN)
 # Traffic sign classification task
 
 The task is to categorize  40×40  RGB pixelspace input images into 43 possible traffic sign categories: ℎ: ℝ4800 ↦ {0,1,…,42}. Due to the three color channels we have a 40 × 40 × 3 = 4800 dimensional input.
